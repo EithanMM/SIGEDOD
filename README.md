@@ -11,4 +11,4 @@ Developers:
 
 
 Screenshots:
-![](sigedod/github screenshots/screenshot_1.png)
+![](sigedod/github%20screenshots/screenshot_1.png)
