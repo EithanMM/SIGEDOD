@@ -12,3 +12,5 @@ Developers:
 
 Screenshots:
 ![](sigedod/github%20screenshots/screenshot_1.png)
+![](sigedod/github%20screenshots/screenshot_2.png)
+![](sigedod/github%20screenshots/screenshot_3.png)
